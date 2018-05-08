@@ -1,0 +1,19 @@
+{
+  "name": "purescript-source-parser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.3.0",
+    "purescript-string-parsers": "^3.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-spec": "^2.0.0",
+    "purescript-node-fs-aff": "^5.0.0"
+  }
+}

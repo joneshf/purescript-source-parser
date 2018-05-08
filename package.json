@@ -1,0 +1,28 @@
+{
+  "name": "purescript-source-parser",
+  "version": "1.0.0",
+  "description": "A Parser for PureScript in PureScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "pulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneshf/purescript-source-parser.git"
+  },
+  "keywords": [],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneshf/purescript-source-parser/issues"
+  },
+  "homepage": "https://github.com/joneshf/purescript-source-parser#readme",
+  "devDependencies": {
+    "bower": "1.8.4",
+    "pscid": "2.5.3",
+    "pulp": "12.2.0",
+    "purescript": "0.11.7",
+    "purescript-psa": "0.6.0",
+    "purty": "0.4.0"
+  }
+}
